@@ -1,6 +1,6 @@
 # Introduction:
 
-[AP2 final project in GCED built in 2021]
+[AP2 final project in GCED, built in 2021]
 
 This file will help understand the iGo.py and bot.py files and what they do. It also explains the use of every command available and the errors that may occur.
 
