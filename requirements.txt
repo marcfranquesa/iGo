@@ -1,0 +1,7 @@
+urllib3
+networkx
+osmnx
+staticmap
+haversine
+requests
+python-telegram-bot
